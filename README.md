@@ -45,10 +45,6 @@
 
 </div>
 
-<div align = "">
-<img src="assets/tech.gif">
-</div>
-
 ## Contribution Streak
 
 <p align="">

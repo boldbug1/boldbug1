@@ -1,3 +1,4 @@
+![Gif](gif.gif)
 # Hi, I'm Boldbug╰(*°▽°*)╯
 
 ## About Me
@@ -7,7 +8,7 @@
 - Open source contributor
 
 ---
-
+![gif](download(2).gif)
 ## Tech Stack
 
 ### Languages
@@ -53,7 +54,8 @@
 - Better my IT fundamentals
 
 ---
----
+
+![Gif](21673641952448226.gif)
 
 ## Contribution Streak
 

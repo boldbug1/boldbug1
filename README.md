@@ -1,8 +1,8 @@
-<div align="center">
+<div align="">
 <img src="assets/scenery.gif">
 </div>
 
-<div align="center">
+<div align="">
   
 # Hi, I'm Boldbug╰(*°▽°*)╯
 
@@ -15,9 +15,9 @@
 - Interested in Information Theory, Computer Networks, Computer Architecture, and AI
 - Open source contributor
 
----
 
-<div align="center">
+
+<div align="">
   
 ## Tech Stack
 
@@ -31,7 +31,6 @@
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -43,40 +42,27 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+
 </div>
 
-<div align = "center">
+<div align = "">
 <img src="assets/tech.gif">
 </div>
 
 ## Contribution Streak
 
-<p align="center">
+<p align="">
   <img
     src="https://streak-stats.demolab.com?user=boldbug1&theme=tokyonight"
     alt="GitHub Streak"
   />
 </p>
 
----
-
-## Activity Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=boldbug1&theme=tokyo-night"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
 ## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boldbug1)
 
----
+
 
 ## Quote
 

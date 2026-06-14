@@ -1,6 +1,13 @@
-<div>
-![Gif](gif.gif)
+<div align="center">
+<img src="assets/scenery.gif">
+</div>
+
+<div align="center">
+  
 # Hi, I'm Boldbug╰(*°▽°*)╯
+
+
+</div>
 
 ## About Me
 
@@ -9,7 +16,9 @@
 - Open source contributor
 
 ---
-![gif](download(2).gif)
+
+<div align="center">
+  
 ## Tech Stack
 
 ### Languages
@@ -35,28 +44,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+</div>
 
-## Currently Learning
-
-- Node.js and Express.js
-- MongoDB and Database Design
-- REST API Development
-- Computer Networks
-- Data Structures and Algorithms
-- IT Fundamentals
-
----
-
-## 2026 Goals
-
-- Build production-ready backend projects
-- Contribute consistently to open source
-- Strengthen DSA and problem-solving skills
-- Better my IT fundamentals
-
----
-
-![Gif](21673641952448226.gif)
+<div align = "center">
+<img src="assets/tech.gif">
+</div>
 
 ## Contribution Streak
 

@@ -1,65 +1,26 @@
-<div align="">
-<img src="assets/scenery.gif">
-</div>
 
-<div align="">
-  
-# Hi, I'm Boldbug╰(*°▽°*)╯
-
-
-</div>
-
-## About Me
-
-- Currently focused on Backend Development and Computer Science fundamentals
-- Interested in Information Theory, Computer Networks, Computer Architecture, and AI
-- Open source contributor
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>
+![Neuroscience](https://img.shields.io/badge/Neuroscience-8A2BE2?style=flat-square)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square)
+![Low--level Systems](https://img.shields.io/badge/Low--level_Systems-333333?style=flat-square)
+![Robotics](https://img.shields.io/badge/Robotics-00A86B?style=flat-square)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-C70039?style=flat-square)
 
 
+# Boldbug
 
-<div align="">
-  
-## Tech Stack
+Backend dev working toward security & systems programming.<br>
+Started with Node/Express, now moving into Rust, C, and low-level stuff<br>
+I like understanding what's actually happening under the abstraction.
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Databases
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-
-### Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**Currently building:**
+- [`remcom`](https://github.com/boldbug1/remcom.git) — strips comments from C source files, with optional line-range filtering
 
 
-</div>
+Contributing to [RED-Collective](link).
 
-## Contribution Streak
-
-<p align="">
-  <img
-    src="https://streak-stats.demolab.com?user=boldbug1&theme=tokyonight"
-    alt="GitHub Streak"
-  />
-</p>
-
-## Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boldbug1)
-
-
-
-## Quote
-
-> "Build strong foundations. Complex systems are only as good as their fundamentals."
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=boldbug9@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-boldbug-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/boldbug)

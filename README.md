@@ -16,9 +16,11 @@ Backend dev working toward security & systems programming.<br>
 Started with Node/Express, now moving into Rust, C, and low-level stuff<br>
 I like understanding what's actually happening under the abstraction.
 
-**Currently building:**
+**Projects:**
 - [`remcom`](https://github.com/boldbug1/remcom.git) — strips comments from C source files, with optional line-range filtering
 
+**Currently building:**
+- [`eCOMx`](https://github.com/boldbug1/eCOMx.git) - a secure , robust and functional Ecommerce API
 
 Contributing to [RED-Collective](link).
 
